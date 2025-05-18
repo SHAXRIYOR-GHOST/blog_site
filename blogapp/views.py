@@ -1,5 +1,4 @@
 from django.shortcuts import get_object_or_404, render
-
 from .models import Post
 from django.views.generic import ListView
 
